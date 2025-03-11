@@ -9,3 +9,5 @@ services
 resume
 Projects
 Contact
+
+visit the link: https://afrahmuhammedportfolio.netlify.app/
