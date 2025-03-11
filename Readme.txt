@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+Personal Portfolio
+Welcome to my personal portfolio website! This site showcases my skills, projects, and experiences as a developer. Here, you can explore my work, including various projects that demonstrate my proficiency in web development technologies.
 
-Template Name: EasyFolio
-Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Table of Contents
+
+About Me
+Technologies
+services
+resume
+Projects
+Contact
